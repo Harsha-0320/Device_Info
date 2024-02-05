@@ -32,5 +32,5 @@ The Device_Info app is an Android Mobile Application, telling the user about the
 - The app uses standard Android SDK libraries for device monitoring and its other components and UI components.
 
 ## Images-
-Application Interface after installing in physical device.
+Application Main Page Interface after installing in physical device.
 ![device_info.jpeg](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fdevice_info.jpeg)
