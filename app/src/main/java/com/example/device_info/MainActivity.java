@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         sensorbtn=findViewById(R.id.sensorbtn);
         telephonybtn=findViewById(R.id.telephonybtn);
 
+        //Different modules to get different infromation
         devicebtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
