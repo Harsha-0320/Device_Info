@@ -2,6 +2,7 @@
 The Device_Info app is an Android Mobile Application, telling the user about the mobile phone's details or information . It provides the user with device details, system details and etc.
 
 ## Features-
+- Main Page includes image buttons to enter into other modules to get information.
 - Contains modules to get different information about the device,system,etc.
 - Displays Device information in device module.
 - Displays System information in system module.
@@ -32,7 +33,7 @@ The Device_Info app is an Android Mobile Application, telling the user about the
 - The app uses standard Android SDK libraries for device monitoring and its other components and UI components.
 
 ## Images-
-Application Interface after installing in physical device.
+Application Main Page Interface after installing in physical device.
 ![device_info.jpeg](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fdevice_info.jpeg)
 
 ## licence
