@@ -35,6 +35,7 @@ The Device_Info app is an Android Mobile Application, telling the user about the
 ## Images-
 Application Main Page Interface after installing in physical device.
 ![device_info.jpeg](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fdevice_info.jpeg)
+![device.jpeg](images/device.jpeg)
 
 ## Licence
 [GNU](LICENCE)
